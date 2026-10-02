@@ -1,0 +1,422 @@
+[
+  {
+    "id": "surnames_001",
+    "text": "Вейл",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_002",
+    "text": "Северин",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_003",
+    "text": "Лескова",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_004",
+    "text": "Медный",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_005",
+    "text": "Рудин",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_006",
+    "text": "Светлова",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_007",
+    "text": "Морозов",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_008",
+    "text": "Тихий",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_009",
+    "text": "Каменный",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_010",
+    "text": "Ярова",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_011",
+    "text": "Берестов",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_012",
+    "text": "Воронова",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_013",
+    "text": "Соколин",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_014",
+    "text": "Дубрава",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_015",
+    "text": "Лисов",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_016",
+    "text": "Гранитова",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_017",
+    "text": "Белозёрова",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_018",
+    "text": "Зорин",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_019",
+    "text": "Ветреная",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_020",
+    "text": "Седов",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_021",
+    "text": "Огнева",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_022",
+    "text": "Кленов",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_023",
+    "text": "Речная",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_024",
+    "text": "Сумеркин",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_025",
+    "text": "Зимина",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_026",
+    "text": "Травин",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_027",
+    "text": "Сереброва",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_028",
+    "text": "Лунный",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_029",
+    "text": "Волкова",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "surnames_030",
+    "text": "Ясенева",
+    "tags": [
+      "surnames"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  }
+]

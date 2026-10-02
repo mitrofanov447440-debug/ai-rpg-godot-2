@@ -1,0 +1,482 @@
+[
+  {
+    "id": "clothing_outer_001",
+    "text": "потёртый дорожный плащ",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_002",
+    "text": "тёплая шерстяная накидка",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_003",
+    "text": "простой серый плащ",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_004",
+    "text": "кожаная куртка с латками",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_005",
+    "text": "короткий дождевой плащ",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_006",
+    "text": "тёмная накидка с капюшоном",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_007",
+    "text": "плащ с застёжкой из дерева",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_008",
+    "text": "плотный жилет без рукавов",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_009",
+    "text": "поношенный плащ путника",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_010",
+    "text": "накидка с меховым воротом",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_011",
+    "text": "длинный плащ цвета мха",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_012",
+    "text": "рабочий фартук поверх одежды",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_013",
+    "text": "плащ с заплатой на плече",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_014",
+    "text": "короткая кожаная куртка",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_015",
+    "text": "шерстяной плащ до колен",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_016",
+    "text": "простая накидка от дождя",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_017",
+    "text": "тёмный плащ с капюшоном",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_018",
+    "text": "стёганая куртка",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_019",
+    "text": "фартук кузнеца",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_020",
+    "text": "плотная дорожная накидка",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_021",
+    "text": "старый плащ с застёжкой",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_022",
+    "text": "плащ странника",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_023",
+    "text": "плащ с высоким воротом",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_024",
+    "text": "лёгкая накидка пастуха",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_025",
+    "text": "куртка с широкими карманами",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_026",
+    "text": "короткая накидка",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_027",
+    "text": "старый жилет",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_028",
+    "text": "дорожный плащ с капюшоном",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_029",
+    "text": "шерстяная куртка",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_outer_030",
+    "text": "простая тёплая мантия",
+    "tags": [
+      "clothing outer",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "id": "names_female_001",
+    "text": "Алиса",
+    "tags": [
+      "names female"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_002",
+    "text": "Варвара",
+    "tags": [
+      "names female"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_003",
+    "text": "Мирослава",
+    "tags": [
+      "names female"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_004",
+    "text": "Софья",
+    "tags": [
+      "names female"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_005",
+    "text": "Лада",
+    "tags": [
+      "names female"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_006",
+    "text": "Агата",
+    "tags": [
+      "names female"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_007",
+    "text": "Марьяна",
+    "tags": [
+      "names female"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_008",
+    "text": "Ева",
+    "tags": [
+      "names female"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_009",
+    "text": "Дарья",
+    "tags": [
+      "names female"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_010",
+    "text": "Полина",
+    "tags": [
+      "names female"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_011",
+    "text": "Василиса",
+    "tags": [
+      "names female"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_012",
+    "text": "Таисия",
+    "tags": [
+      "names female"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_013",
+    "text": "Злата",
+    "tags": [
+      "names female"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_014",
+    "text": "Милена",
+    "tags": [
+      "names female"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_015",
+    "text": "Кира",
+    "tags": [
+      "names female"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_016",
+    "text": "Елена",
+    "tags": [
+      "names female"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_017",
+    "text": "Марфа",
+    "tags": [
+      "names female"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_018",
+    "text": "Арина",
+    "tags": [
+      "names female"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_019",
+    "text": "Ника",
+    "tags": [
+      "names female"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_020",
+    "text": "Вера",
+    "tags": [
+      "names female"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_021",
+    "text": "Любовь",
+    "tags": [
+      "names female"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_022",
+    "text": "Ясна",
+    "tags": [
+      "names female"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_023",
+    "text": "Элина",
+    "tags": [
+      "names female"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_024",
+    "text": "Рада",
+    "tags": [
+      "names female"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_025",
+    "text": "Инга",
+    "tags": [
+      "names female"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_026",
+    "text": "Яна",
+    "tags": [
+      "names female"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_027",
+    "text": "Ася",
+    "tags": [
+      "names female"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_028",
+    "text": "Лилия",
+    "tags": [
+      "names female"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_029",
+    "text": "Нина",
+    "tags": [
+      "names female"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "names_female_030",
+    "text": "Ольга",
+    "tags": [
+      "names female"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  }
+]

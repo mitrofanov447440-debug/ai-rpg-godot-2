@@ -1,0 +1,452 @@
+[
+  {
+    "id": "speech_style_001",
+    "text": "говорит тихо и вежливо",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_002",
+    "text": "отвечает коротко и по делу",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_003",
+    "text": "часто задаёт уточняющие вопросы",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_004",
+    "text": "любит поговорки",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_005",
+    "text": "говорит размеренно и мягко",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_006",
+    "text": "смеётся в конце фраз",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_007",
+    "text": "выбирает простые слова",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_008",
+    "text": "говорит быстро и сбивчиво",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_009",
+    "text": "обращается к собеседнику на «вы»",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_010",
+    "text": "часто вставляет местные присказки",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_011",
+    "text": "делает паузы перед ответом",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_012",
+    "text": "говорит ровным голосом",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_013",
+    "text": "шепчет даже в шуме",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_014",
+    "text": "говорит с лёгким говором",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_015",
+    "text": "часто переспрашивает",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_016",
+    "text": "любит сравнения",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_017",
+    "text": "говорит прямо без обиняков",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_018",
+    "text": "смягчает просьбы",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_019",
+    "text": "шутит сухо и коротко",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_020",
+    "text": "тщательно подбирает слова",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_021",
+    "text": "использует старинные обороты",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_022",
+    "text": "говорит певуче",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_023",
+    "text": "произносит всё очень чётко",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_024",
+    "text": "сбивается при волнении",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_025",
+    "text": "заканчивает фразы вопросом",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_026",
+    "text": "любит короткие истории",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_027",
+    "text": "часто говорит «видать»",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_028",
+    "text": "обращается «милсдарь»",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_029",
+    "text": "избегает громких слов",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "speech_style_030",
+    "text": "говорит с заметной хрипотцой",
+    "tags": [
+      "speech style",
+      "говорит"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  }
+]

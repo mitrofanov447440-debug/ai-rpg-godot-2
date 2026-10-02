@@ -1,0 +1,422 @@
+[
+  {
+    "id": "quirks_001",
+    "text": "постукивает пальцами по столу",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_002",
+    "text": "считает ступени",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_003",
+    "text": "поправляет рукав перед ответом",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_004",
+    "text": "напеввает старую мелодию",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_005",
+    "text": "прячет монеты в разные карманы",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_006",
+    "text": "трёт переносицу задумавшись",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_007",
+    "text": "крутит кольцо на пальце",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_008",
+    "text": "всегда носит при себе нитку",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_009",
+    "text": "собирает гладкие камешки",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_010",
+    "text": "проверяет застёжки дважды",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_011",
+    "text": "говорит с животными",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_012",
+    "text": "раскладывает вещи по размеру",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_013",
+    "text": "вздыхает перед важной мыслью",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_014",
+    "text": "хранит засушенный цветок",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_015",
+    "text": "щурится на ярком свету",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_016",
+    "text": "теребит край плаща",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_017",
+    "text": "помнит чужие дни рождения",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_018",
+    "text": "стучит каблуком в ожидании",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_019",
+    "text": "поправляет чужие воротники",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_020",
+    "text": "тихо насвистывает при работе",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_021",
+    "text": "избегает наступать на трещины",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_022",
+    "text": "подбирает выпавшие пуговицы",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_023",
+    "text": "пересчитывает мелочь",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_024",
+    "text": "носит запасные шнурки",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_025",
+    "text": "приглаживает волосы",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_026",
+    "text": "складывает записки вчетверо",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_027",
+    "text": "разговаривает во сне",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_028",
+    "text": "бережёт старую пуговицу",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_029",
+    "text": "часто смотрит на небо",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "quirks_030",
+    "text": "постукивает по дереву",
+    "tags": [
+      "quirks"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  }
+]

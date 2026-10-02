@@ -1,0 +1,482 @@
+[
+  {
+    "id": "accessories_001",
+    "text": "потёртая кожаная сумка",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_002",
+    "text": "медный амулет",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_003",
+    "text": "простой тканевый пояс",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_004",
+    "text": "связка ключей",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_005",
+    "text": "деревянные чётки",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_006",
+    "text": "шерстяной шарф",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_007",
+    "text": "кожаный браслет",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_008",
+    "text": "сумка для трав",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_009",
+    "text": "простая заколка",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_010",
+    "text": "старый медальон",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_011",
+    "text": "поясной нож",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_012",
+    "text": "связка бубенцов",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_013",
+    "text": "холщовая сумка",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_014",
+    "text": "перчатки без пальцев",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_015",
+    "text": "медная брошь",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_016",
+    "text": "маленький свисток",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_017",
+    "text": "кошель на шнуре",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_018",
+    "text": "простая лента в волосах",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_019",
+    "text": "кожаный кошель",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_020",
+    "text": "перо за ухом",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_021",
+    "text": "круглая брошь",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_022",
+    "text": "деревянная подвеска",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_023",
+    "text": "набор игл и ниток",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_024",
+    "text": "ремень с подсумком",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_025",
+    "text": "бронзовое кольцо",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_026",
+    "text": "костяная шпилька",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_027",
+    "text": "дорожная фляга",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_028",
+    "text": "тканевая повязка",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_029",
+    "text": "серебряная серьга",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "accessories_030",
+    "text": "плетёный браслет",
+    "tags": [
+      "accessories",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  }
+]

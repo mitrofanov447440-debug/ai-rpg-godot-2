@@ -1,0 +1,108 @@
+[
+	{"id":"age_groups","display_name":"Возрастные группы","required":false,"chance":0.0,"max_per_npc":1},
+  {
+    "id": "names_male",
+    "display_name": "names male",
+    "required": false,
+    "chance": 0.5,
+    "max_per_npc": 2
+  },
+  {
+    "id": "names_female",
+    "display_name": "names female",
+    "required": false,
+    "chance": 0.5,
+    "max_per_npc": 2
+  },
+  {
+    "id": "surnames",
+    "display_name": "surnames",
+    "required": false,
+    "chance": 0.5,
+    "max_per_npc": 2
+  },
+  {
+    "id": "body_build",
+    "display_name": "body build",
+    "required": false,
+    "chance": 0.5,
+    "max_per_npc": 2
+  },
+  {
+    "id": "hair",
+    "display_name": "hair",
+    "required": false,
+    "chance": 0.5,
+    "max_per_npc": 2
+  },
+  {
+    "id": "eyes",
+    "display_name": "eyes",
+    "required": false,
+    "chance": 0.5,
+    "max_per_npc": 2
+  },
+  {
+    "id": "skin_marks",
+    "display_name": "skin marks",
+    "required": false,
+    "chance": 0.5,
+    "max_per_npc": 2
+  },
+  {
+    "id": "clothing_top",
+    "display_name": "clothing top",
+    "required": true,
+    "chance": 0.5,
+    "max_per_npc": 2
+  },
+  {
+    "id": "clothing_bottom",
+    "display_name": "clothing bottom",
+    "required": true,
+    "chance": 0.5,
+    "max_per_npc": 2
+  },
+  {
+    "id": "clothing_outer",
+    "display_name": "clothing outer",
+    "required": false,
+    "chance": 0.5,
+    "max_per_npc": 2
+  },
+  {
+    "id": "footwear",
+    "display_name": "footwear",
+    "required": true,
+    "chance": 0.5,
+    "max_per_npc": 2
+  },
+  {
+    "id": "accessories",
+    "display_name": "accessories",
+    "required": false,
+    "chance": 0.5,
+    "max_per_npc": 2
+  },
+  {
+    "id": "personality",
+    "display_name": "personality",
+    "required": true,
+    "chance": 0.5,
+    "max_per_npc": 2
+  },
+  {
+    "id": "speech_style",
+    "display_name": "speech style",
+    "required": true,
+    "chance": 0.5,
+    "max_per_npc": 2
+  },
+  {
+    "id": "quirks",
+    "display_name": "quirks",
+    "required": false,
+    "chance": 0.5,
+    "max_per_npc": 2
+  }
+]

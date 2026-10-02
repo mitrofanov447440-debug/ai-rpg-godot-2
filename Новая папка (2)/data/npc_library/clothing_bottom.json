@@ -1,0 +1,482 @@
+[
+  {
+    "id": "clothing_bottom_001",
+    "text": "простые льняные штаны",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_002",
+    "text": "рабочие штаны с заплатой",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_003",
+    "text": "длинная шерстяная юбка",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_004",
+    "text": "тёмная дорожная юбка",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_005",
+    "text": "грубые штаны с ремнём",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_006",
+    "text": "свободные штаны до щиколотки",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_007",
+    "text": "простая тканая юбка",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_008",
+    "text": "плотные штаны кузнеца",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_009",
+    "text": "штаны с потёртыми коленями",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_010",
+    "text": "дорожные бриджи",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_011",
+    "text": "холщовые штаны с поясом",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_012",
+    "text": "длинная юбка с карманом",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_013",
+    "text": "кожаные штаны путника",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_014",
+    "text": "тёмные штаны с латками",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_015",
+    "text": "льняная юбка до пола",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_016",
+    "text": "короткая рабочая юбка",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_017",
+    "text": "штаны с боковыми завязками",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_018",
+    "text": "шерстяные чулки и юбка",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_019",
+    "text": "крепкие штаны охотника",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_020",
+    "text": "юбка с простой каймой",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_021",
+    "text": "широкие штаны трактирщика",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_022",
+    "text": "штаны с нашитыми карманами",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_023",
+    "text": "простая юбка без украшений",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_024",
+    "text": "коричневые штаны крестьянина",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_025",
+    "text": "плотные штаны с ремешками",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_026",
+    "text": "юбка из грубой ткани",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_027",
+    "text": "узкие дорожные штаны",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_028",
+    "text": "длинные штаны с заплатами",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_029",
+    "text": "скромная плиссированная юбка",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_bottom_030",
+    "text": "простые штаны путника",
+    "tags": [
+      "clothing bottom",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  }
+]

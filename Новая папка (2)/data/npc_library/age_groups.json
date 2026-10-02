@@ -1,0 +1,92 @@
+[
+	{
+		"id": "age_young",
+		"text": "молодой взрослый",
+		"tags": [
+			"молодой"
+		],
+		"weight": 4,
+		"requires": [],
+		"excludes": [],
+		"allowed_roles": [],
+		"forbidden_roles": [],
+		"min_wealth": 0,
+		"max_wealth": 12,
+		"age_range": [
+			16,
+			25
+		]
+	},
+	{
+		"id": "age_adult",
+		"text": "взрослый",
+		"tags": [
+			"взрослый"
+		],
+		"weight": 5,
+		"requires": [],
+		"excludes": [],
+		"allowed_roles": [],
+		"forbidden_roles": [],
+		"min_wealth": 0,
+		"max_wealth": 12,
+		"age_range": [
+			26,
+			50
+		]
+	},
+	{
+		"id": "age_older",
+		"text": "в зрелом возрасте",
+		"tags": [
+			"зрелый"
+		],
+		"weight": 2,
+		"requires": [],
+		"excludes": [],
+		"allowed_roles": [],
+		"forbidden_roles": [],
+		"min_wealth": 0,
+		"max_wealth": 12,
+		"age_range": [
+			51,
+			80
+		]
+	},
+	{
+		"id": "age_child",
+		"text": "Ребенок",
+		"tags": [
+			"несовершенолетний"
+		],
+		"weight": 3,
+		"requires": [],
+		"excludes": [],
+		"allowed_roles": [],
+		"forbidden_roles": [],
+		"min_wealth": 0,
+		"max_wealth": 12,
+		"age_range": [
+			0.1,
+			11
+		]
+	},
+	{
+		"id": "age_teenager",
+		"text": "подросток",
+		"tags": [
+			"совершенолетний"
+		],
+		"weight": 3,
+		"requires": [],
+		"excludes": [],
+		"allowed_roles": [],
+		"forbidden_roles": [],
+		"min_wealth": 0,
+		"max_wealth": 12,
+		"age_range": [
+			12,
+			15
+		]
+	}
+]

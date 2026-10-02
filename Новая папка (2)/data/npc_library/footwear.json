@@ -1,0 +1,482 @@
+[
+  {
+    "id": "footwear_001",
+    "text": "крепкие кожаные сапоги",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_002",
+    "text": "простые башмаки с пряжками",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_003",
+    "text": "мягкие дорожные туфли",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_004",
+    "text": "поношенные высокие сапоги",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_005",
+    "text": "деревянные башмаки",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_006",
+    "text": "шерстяные обмотки и сандалии",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_007",
+    "text": "рабочие ботинки с железными носами",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_008",
+    "text": "лёгкие кожаные сапоги",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_009",
+    "text": "тёмные туфли на шнуровке",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_010",
+    "text": "сапоги с заплатами",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_011",
+    "text": "высокие сапоги до колена",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_012",
+    "text": "простые сандалии",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_013",
+    "text": "промасленные дорожные сапоги",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_014",
+    "text": "башмаки с толстой подошвой",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_015",
+    "text": "домашние туфли",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_016",
+    "text": "кожаные полусапожки",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_017",
+    "text": "грубые сапоги путника",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_018",
+    "text": "плетёные сандалии",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_019",
+    "text": "войлочные ботинки",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_020",
+    "text": "крепкие башмаки без украшений",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_021",
+    "text": "лёгкие сапоги с ремешками",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_022",
+    "text": "старые кожаные ботинки",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_023",
+    "text": "чистые чёрные туфли",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_024",
+    "text": "мокрые дорожные сапоги",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_025",
+    "text": "короткие сапожки",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_026",
+    "text": "тканевые туфли",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_027",
+    "text": "сапоги с меховой опушкой",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_028",
+    "text": "грубые деревянные башмаки",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_029",
+    "text": "простые рабочие сапоги",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "footwear_030",
+    "text": "дорожные ботинки",
+    "tags": [
+      "footwear",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  }
+]

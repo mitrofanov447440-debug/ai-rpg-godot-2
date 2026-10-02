@@ -1,0 +1,482 @@
+[
+  {
+    "id": "clothing_top_001",
+    "text": "простая льняная рубаха",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_002",
+    "text": "рабочая рубаха с закатанными рукавами",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_003",
+    "text": "выцветшая туника",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_004",
+    "text": "шерстяная рубаха с заплатами",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_005",
+    "text": "тёмная рубаха с высоким воротом",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_006",
+    "text": "светлая блуза с узким поясом",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_007",
+    "text": "кожаный нагрудник поверх рубахи",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_008",
+    "text": "хлопковая рубаха с вышитым воротом",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_009",
+    "text": "просторная домотканая рубаха",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_010",
+    "text": "аккуратная рубаха с застёжками",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_011",
+    "text": "простая безрукавка",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_012",
+    "text": "грубая рубаха с латками",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_013",
+    "text": "чистая рубаха с отложным воротником",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_014",
+    "text": "короткая куртка торговца",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_015",
+    "text": "тёплая шерстяная туника",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_016",
+    "text": "рубаха с потёртыми манжетами",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_017",
+    "text": "льняная блуза с тесёмками",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_018",
+    "text": "жилет с медными пуговицами",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_019",
+    "text": "рубаха цвета охры",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_020",
+    "text": "тёмно-зелёная туника",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_021",
+    "text": "простая одежда без украшений",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_022",
+    "text": "рубаха с узором на груди",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_023",
+    "text": "кожаный жилет с карманами",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_024",
+    "text": "свободная рубаха в полоску",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_025",
+    "text": "синяя рабочая блуза",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_026",
+    "text": "рубаха с широкими рукавами",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 2,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_027",
+    "text": "короткая кольчуга поверх туники",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 3,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_028",
+    "text": "белая рубаха с узким поясом",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 4,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_029",
+    "text": "плотная рубаха дорожника",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 5,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  },
+  {
+    "id": "clothing_top_030",
+    "text": "старая рубаха с латками",
+    "tags": [
+      "clothing top",
+      "рабочая",
+      "простая"
+    ],
+    "weight": 1,
+    "requires": [],
+    "excludes": [],
+    "allowed_roles": [],
+    "forbidden_roles": [],
+    "min_wealth": 0,
+    "max_wealth": 12
+  }
+]
